@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+//Class of person
+class Person
+{
+
+};
+
+
+//main function
+/*
+	In this function
+	you should run other functions
+*/
+int main()
+{
+	int z;
+	
+	for(int i = 0; i < 4; i++)
+	{
+		
+		
+	}
+	
+	cout << hello world;
+	return 0;
+}
